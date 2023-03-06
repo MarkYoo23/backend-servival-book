@@ -7,3 +7,5 @@
 
 * [1주차 - Http](week-1/README.md)
   * [Http의 이해](week-1/understanding-http.md)
+  * [TCP/IP 이해](week-1/understanding-tcpip.md)
+  * [HTTP Client](week-1/http-client.md)
