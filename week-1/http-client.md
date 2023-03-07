@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD033 -->
-# TCP Client
+# HTTP Client
 
 ## 프로젝트 생성
 
@@ -138,6 +138,8 @@ class AppTest {
 ```
 
 #### 설정 추가
+
+* 설정은 프로젝트마다 저장 해야 합니다.
 
 <img src="actions-on-save.png" alt="action on save" />
 
