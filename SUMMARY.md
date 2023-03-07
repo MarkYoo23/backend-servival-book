@@ -9,4 +9,4 @@
   * [Http의 이해](week-1/understanding-http.md)
   * [TCP/IP 이해](week-1/understanding-tcpip.md)
   * [HTTP Client](week-1/http-client.md)
-  * [HTTP Server](week-2/http-server.md)
+  * [HTTP Server](week-1/http-server.md)
