@@ -2,7 +2,6 @@
 
 리소스를 식별하는 방법
 
-
 ## URL
 
 * Uniform Resource Locator
@@ -13,4 +12,3 @@
 
 * Uniform Resource Name
 * 리소스의 유일한 이름
-
