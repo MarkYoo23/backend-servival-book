@@ -104,9 +104,3 @@
       * 표현에 선택 가능한 상태 전환이 포함 = 하이퍼 링크
       * API 문서를 참조해서 상태 전환을 강제
       * Richardson Maturity Model
-
-
-## SOAP
-
-### 정의
-
