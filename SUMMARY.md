@@ -15,3 +15,5 @@
 
 * [2주차 - REST API](week-2/README.md)
   * [Rest API 이해](week-2/understand-rest-api.md)
+  * [URI 이해](week-2/understand-uri.md)
+  * [MINE 이해](week-2/understand-mine.md)
