@@ -12,3 +12,6 @@
   * [HTTP Server](week-1/http-server.md)
   * [자바 HTTP Server](week-1/java-http-server.md)
   * [Spring HTTP Server](week-1/spring-http-server.md)
+
+* [2주차 - REST API](week-2/README.md)
+  * [Rest API 이해](week-2/understand-rest-api.md)
