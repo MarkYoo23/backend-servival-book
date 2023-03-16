@@ -18,3 +18,4 @@
   * [URI 이해](week-2/understand-uri.md)
   * [MINE 이해](week-2/understand-mine.md)
   * [Collection Pattren 이해](week-2/understand-collection-pattren.md)
+  * [CQS 이해](week-2/understand-cqs.md)
