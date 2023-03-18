@@ -16,7 +16,7 @@
 * [2주차 - REST API](week-2/README.md)
   * [Rest API 이해](week-2/understand-rest-api.md)
   * [URI 이해](week-2/understand-uri.md)
-  * [MINE 이해](week-2/understand-mine.md)
+  * [MINE 이해](week-2/understand-mime.md)
   * [Collection Pattren 이해](week-2/understand-collection-pattren.md)
   * [CQS 이해](week-2/understand-cqs.md)
   * [Spring MVC](week-2/sping-mvc-with-rest-api.md)
