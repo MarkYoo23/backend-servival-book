@@ -20,3 +20,9 @@
   * [Collection Pattren 이해](week-2/understand-collection-pattren.md)
   * [CQS 이해](week-2/understand-cqs.md)
   * [Spring MVC](week-2/sping-mvc-with-rest-api.md)
+
+* [3주차 - DTO & JSON & CORS](week-3/README.md)
+  * [DTO 이해](week-3/dto.md)
+  * [직렬화 이해](week-3/serialization.md)
+  * [Jackson Object Mapper](week-3/jackson-object-mapper.md)
+  * [CORS 이해](week-3/cors.md)
