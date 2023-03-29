@@ -26,3 +26,8 @@
   * [직렬화 이해](week-3/serialization.md)
   * [Jackson Object Mapper](week-3/jackson-object-mapper.md)
   * [CORS 이해](week-3/cors.md)
+
+* [4주차 - Layered Architecture](week-4/README.md)
+  * [Layered Architecture](week-4/layered-architecture.md)
+  * [Data Accessced](week-4/data-accessed.md)
+  * [Domain Model](week-4/domain-model.md)
