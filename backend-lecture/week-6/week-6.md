@@ -65,4 +65,4 @@
 * application.yml
 * CommandLineRunner
 * Spring JDBC
-* Spring DAO with jdbcTemplate
+* Spring DAO with jdbc
