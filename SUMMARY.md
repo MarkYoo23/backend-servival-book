@@ -33,6 +33,7 @@
     * [Domain Model](backend-lecture/week-4/domain-model.md)
   * [5주차 - DI & Spring Test](backend-lecture/week-5/week-5.md)
   * [6주차 - Database](backend-lecture/week-6/week-6.md)
+  * [7주차 - JPA](backend-lecture/week-7/week-7.md)
 
 * [database](databasies/database-languages/README.md)
   * [database language](databasies/database-languages/README.md)
@@ -91,3 +92,9 @@
     * [MockMVC](spring/testings/MockMVC.md)
     * [spring integration test](spring/testings/Spring-integration-test.md)
     * [sping unit test](spring/testings/sping-unit-test.md)
+  * [ORM](spring/orms/README.md)
+    * [@Embeddable](spring/orms/@Embeddable.md)
+    * [@Table](spring/orms/@Table.md.md)
+    * [@Transactional](spring/orms/@Transactional.md.md)
+    * [jpa](spring/orms/jpa.md)
+    * [orm](spring/orms/orm.md)
