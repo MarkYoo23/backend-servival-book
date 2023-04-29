@@ -24,9 +24,15 @@
 
 * Spring Data JPA
 * Dao 와 Repository 차이
+  * Dao : .Net Context = 데이터베이스와 직접 연결을 하는 객체
+  * Repository : 데이터베이스를 조작하는 방법을 정의하는 인터페이스?
 * JPA Repository와 DDD의 Repository
+  * JPA Repository : Spring 에 포함된 유틸리티
+  * DDD Repository : Domain Layer 에서 사용하는 인터페이스
 * Spring AOP
+  * 객체형태로 컬럼을 제약하는 행위
 * @Transactional
+  * 행동에 트랜잭션을 걸어준다. 근데 불필요한 범위까지 트랜잭션 걸던데???
 
 ## 기타
 
