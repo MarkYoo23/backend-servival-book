@@ -35,6 +35,7 @@
   * [6주차 - Database](backend-lecture/week-6/week-6.md)
   * [7주차 - JPA](backend-lecture/week-7/week-7.md)
   * [8주차 - DDD](backend-lecture/week-8/week-8.md)
+  * [9주차 - Hexagonal Architecture](backend-lecture/week-9/week-9.md)
 
 * [database](databasies/database-languages/README.md)
   * [database language](databasies/database-languages/README.md)
@@ -60,6 +61,9 @@
   * [plagin-pattern](design-pattern/plagin-pattern.md.md)
 
 * [software enginnering](software-enginnering/README.md)
+  * [Architectures](software-enginnering/architectures/README.md)
+    * [hexagonal-architecture](software-enginnering/architectures/hexagonal-architecture.md)
+    * [layered-architecture](software-enginnering/architectures/layered-architecture.md)
   * [DDD](software-enginnering/ddds/README.md)
     * [common](software-enginnering/ddds/commons/README.md)
       * [ddd-model](software-enginnering/ddds/commons/ddd-model.md)
@@ -87,7 +91,7 @@
   * [test-matrix](software-enginnering/test-matrix.md)
   * [test pyramid](software-enginnering/test-pyramid.md)
   * [v-model](software-enginnering/v-model.md)
-
+  * [soild](software-enginnering/soild.md)
 * [Spring](spring/README.md)
   * [Annotation](spring/spring-annotation.md)
     * [@ComponentScan](spring/annotation/@componentScan.md)
@@ -100,6 +104,8 @@
     * [BeanFactory](spring/beans/bean-factory.md)
   * [Bugs](spring/bugs/README.md)
     * [spring encoding](spring/bugs/spring-encoding.md)
+  * [ETC](spring/etcs/README.md)
+    * [POJO](spring/etcs/POJO.md)
   * [jdbc](spring/jdbc/README.md)
     * [spring dao with jdbc](spring/jdbc/spring-dao-with-jdbc.md)
   * [proerties](spring/properties/README.md)
