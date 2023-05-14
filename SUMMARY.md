@@ -36,6 +36,12 @@
   * [7주차 - JPA](backend-lecture/week-7/week-7.md)
   * [8주차 - DDD](backend-lecture/week-8/week-8.md)
   * [9주차 - Hexagonal Architecture](backend-lecture/week-9/week-9.md)
+  * [10주차 - 보안](backend-lecture/week-10/week-10.md)
+    * [authentication](backend-lecture/week-10/authentication.md)
+    * [authorization](backend-lecture/week-10/authorization.md)
+    * [cookie](backend-lecture/week-10/cookie.md)
+    * [cryptography](backend-lecture/week-10/cryptography.md)
+    * [localstorage](backend-lecture/week-10/localstorage.md)
 
 * [database](databasies/database-languages/README.md)
   * [database language](databasies/database-languages/README.md)
