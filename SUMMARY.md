@@ -42,6 +42,7 @@
     * [cookie](backend-lecture/week-10/cookie.md)
     * [cryptography](backend-lecture/week-10/cryptography.md)
     * [localstorage](backend-lecture/week-10/localstorage.md)
+  * [11주차 - fileupload](backend-lecture/week-11/week-11.md)
 
 * [database](databasies/database-languages/README.md)
   * [database language](databasies/database-languages/README.md)
